@@ -7,6 +7,7 @@
     <h2>预祝大家前程似锦</h2>
     <h2>预祝大家前程似锦</h2>
     <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3896942913,1317718177&fm=26&gp=0.jpg" />
+    <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4274992844,101101388&fm=26&gp=0.jpg" />
   </div>
 </template>
 
