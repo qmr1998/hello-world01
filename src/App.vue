@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=805383999,1987739071&fm=26&gp=0.jpg">
+    <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603539591153&di=f8770a5e81673bc98637911a325511bc&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20160929%2Fb5d12f8ba3304cc98eb66173da815017_th.jpg">
   </div>
 </template>
 
