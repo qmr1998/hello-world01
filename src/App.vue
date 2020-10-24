@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
-
-@qmr1998
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-YouAreMySunShine2
-/
-vue2048_v1.0
-0
-29
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-vue2048_v1.0/2048
-@YouAreMySunShine2
-YouAreMySunShine2 2048
-…
-Latest commit 95e8c3e on 27 Apr 2019
-History
-1 contributor
-508 lines (498 sloc)  13.2 KB
-
 <template>
   <div class="layout">
     <header>
